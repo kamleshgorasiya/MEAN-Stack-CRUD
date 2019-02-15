@@ -2,6 +2,8 @@
 
 🌟 Crud using the MERN Stack: MongoDB, Express.js, Reactjs & Node.js
 
+Before you set-up this project you need to configure your own mongoDB data base server or cloud DB instance and need to replace the connection string with existing one
+
 ## Installation
 
 ```bash
